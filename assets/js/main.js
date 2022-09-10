@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["uncle.", "editor.", "developer.", "cyber security."],
+      strings: ["uncle.", "editor.", "developer.", "highschool student."],
       typeSpeed: 90,
       loop: true,
     });
