@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: /resources/splashes.txt
+---
+
+{{ site.data.splashes | strip_newlines }}
+test
+test
+test
